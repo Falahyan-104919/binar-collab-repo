@@ -11,3 +11,4 @@ function Luas_PersegiPanjang(panjang,lebar){
 console.log(odd_even_number(5)); //iyan
 console.log('aduh conflict nih');
 console.log(isOdd(2)) //Dhika
+console.log("tes conflict")
